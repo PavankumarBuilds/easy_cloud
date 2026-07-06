@@ -10,5 +10,6 @@ def test_endpoint():
 def get_status():
     return {
         "server_status": "online",
-        "database": "connected"
+        "database": "connected",
+        "message":"it was updated one"
     }
