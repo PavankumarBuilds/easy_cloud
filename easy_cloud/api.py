@@ -11,5 +11,5 @@ def get_status():
     return {
         "server_status": "online",
         "database": "connected",
-        "message":"it was updated one"
+        "message":"it was updated one1"
     }
